@@ -1,7 +1,7 @@
 ---
 title: Adopte 1 voyageur
 publishDate: 2020-03-02 00:00:00
-img: ../assets/adopte1voyageur.png
+img: /assets/adopte1voyageur.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
   Notre premier Hackathon à la Wild Code School. 
